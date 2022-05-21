@@ -1,0 +1,4 @@
+﻿  project3.cpp
+D:\mostafa\pdfs\college\Project\project3\project3\project3.cpp(94,9): warning C4101: 'num': unreferenced local variable
+D:\mostafa\pdfs\college\Project\project3\project3\project3.cpp(298,9): warning C4101: 'num': unreferenced local variable
+  project3.vcxproj -> D:\mostafa\pdfs\college\Project\project3\Debug\project3.exe
